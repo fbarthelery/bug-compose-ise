@@ -1,7 +1,7 @@
 Compose-1.1.0-beta04 IllegalStateException
 ============
 
-Sample project for ConstraintLayout-compose-bug in constraintlayout-compose:1.0.0-alpha07
+Sample project for [compose bug](https://issuetracker.google.com/issues/208855077)
 
 Description
 ----------
